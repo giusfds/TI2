@@ -1,0 +1,4 @@
+app\Aplicacao.class
+dao\DAO.class
+dao\e-sports_playersDAO.class
+model\e-sports_players.class
